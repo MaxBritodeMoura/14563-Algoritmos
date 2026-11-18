@@ -1,5 +1,0 @@
-print(" \ntabela simples ")
-print("nome\tanoNasc")
-print("Max/2006")
-print("Theo/2006")
-print("João/1980")
