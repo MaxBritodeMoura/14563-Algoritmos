@@ -1,3 +1,2 @@
 nome=(input("Digite seu nome:"))
-print(f"Olá {nome}, seja bem vindo ao Mundo!!")
-print(nome)
+print(f"Olá {nome}, seje bem vindo ao Mundo!")
