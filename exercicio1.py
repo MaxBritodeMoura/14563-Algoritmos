@@ -4,5 +4,6 @@
  
 print("nome: Max \n idade: 20 \n cidade: Porto Alegre")
 
-print("nome: Max, Idade, 20 cidade, Porto ALegre")
+
+
 
